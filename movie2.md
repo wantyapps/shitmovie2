@@ -274,6 +274,14 @@ The computer screen shows two lines on a white background.
 Spy 1:
         "Are those.. coordinates?"
 
+Spy 2 to Spy 1:
+        "That's probably where their boss is located!"
+        ..
+Spy 1 replies:
+        "I think that's too far-fetched.. Maybe even dangerous."
+Spy 2:
+        "But... do you think there's more candy there?"
+
 CUT TO:
 ## Scene 8: Greenscreen montage
 
