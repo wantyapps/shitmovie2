@@ -142,7 +142,7 @@ SUDDEN CUT TO:
 
 The mysterious men lie on the ground bleeding out.
 
-Spy 2 flips his banana and blows on its tip:
+Spy 2 flips his banana and blows on its tip: (heh heh)
         "That was easy."
 
 
@@ -299,6 +299,59 @@ bad path.
 Throughout all this, Sea Shanty 2 is playing and the spies walk to its tempo.
 
 CUT TO:
-## Scnene 9:
+## Scene 9:
 
+Shooting: Camera looking at whiteboard (door in frame) of English room.
 
+The room is eerily dark and musty.
+
+Suddenly, the spies kick through the door in an exaggerated motion.
+
+Spy 1 draws his banana searching for bad guys, and when none are found, he
+calmly peels it and eats it.
+
+Spy 2:
+        "Why'd you do that, you imebecile?!"
+Spy 1 (cutely?):
+        (Whilst chewing) "I was hungry!"
+..
+Spy 1:
+        "Are you going to.. eat that?"
+Spy 2:
+        "You can have my spare."
+
+Spy 2 pulls out another banana from his pocket and gives it to
+Spy 1.
+
+Spy 1 embraces the new banana and throws the old one's peel on the floor.
+
+Spy 1:
+        "Well, there's no one here."
+Spy 2:
+        "I think we should look around a bit.."
+Spy 1:
+        "Sure"
+
+Spy 1 and 2 begin walking towards the computer of English room, whilst creepy
+music is playing in the background.
+
+Suddenly, Spy 2 slips on the banana peel and falls to the floor.
+
+Spy 1 to the now-fallen Spy 2:
+        "Ah, you idiot."
+
+Spy 1 crouches to help Spy 2 off the floor. When Spy 2 gets up, he accidentally
+bumps the whiteboard cover's handle, causing it to slowly unravel.
+
+Cut to original angle.
+
+The whiteboard cover slowly, even comically so, unveils (in real time, it's
+just slow) whilst the Krabby Patty Secret Formula introduction sounds for
+30 seconds straight.
+
+Multiple camera angles of the now half-unveiled whiteboard shows.
+
+The whiteboard is now completely shown.
+
+CUT TO:
+## Scene 10:
