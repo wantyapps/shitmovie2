@@ -131,7 +131,7 @@ Spy 2, cutely:
 The men look at each other uncomfortably.
 
 Mysterious Man 2:
-        "Sorry, kiddo. That's it."
+        "Sorry, that's it."
 
 Tears begin to roll down on Spy 2's face.
 Sad small violin music starts playing.
