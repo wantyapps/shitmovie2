@@ -213,6 +213,7 @@ it switches to "computer expert room" (Tichon office)
 
 TRANS. TO:
 ## Scene 7: heckerman h4xx0r
+
 Shooting: Camera looks at a different laptop (needs to be _really_ different)
 which hosts a "cracking" program, making all kinds of noise (dial-up).
 
@@ -274,4 +275,22 @@ Spy 1:
         "Are those.. coordinates?"
 
 CUT TO:
-## Scene 8:
+## Scene 8: Greenscreen montage
+
+*MONTAGE OF SPIES WALKING/CLIMBING/SWIMMING/CYCLING/AIRDROPPING TO LOCATION*
+
+A pirated map is shown on screen whilst the montage is running, on which a
+dotted line detailing their path is drawn.
+
+The path is very very ineffective, with many "dead loops", dead ends, and
+sounds effects.
+
+Instead of walking two minutes to the _actual_ location, they make a really
+bad path.
+
+Throughout all this, Sea Shanty 2 is playing and the spies walk to its tempo.
+
+CUT TO:
+## Scnene 9:
+
+
