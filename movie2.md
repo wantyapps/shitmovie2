@@ -8,6 +8,7 @@ A ten minute movie by ____
 - Spy 2: Uri
 - Governor's Kid
 - Narrator
+- Hacker (Gaddy Tzikman)
 - Car Driver (?)
 - Mysterious men
   - Lior
@@ -206,3 +207,71 @@ The Governor's Kid shuts the laptop angrily.
 
 Governor's Kid:
         "Fine, I do it meself."
+
+Shooting: Slow zoom out transition, screen stays in place whilst room around
+it switches to "computer expert room" (Tichon office)
+
+TRANS. TO:
+## Scene 7: heckerman h4xx0r
+Shooting: Camera looks at a different laptop (needs to be _really_ different)
+which hosts a "cracking" program, making all kinds of noise (dial-up).
+
+Camera zooms out from computer screen, and pans 180deg backwards, to an
+ominous man (hacker). The camera can somehow see the phone connected via
+wire to the computer.
+
+The hacker is wearing a fake moustache, so obviously put on that it's funny.
+
+Spy 1 (o.o.f):
+        "Is it ready yet?"
+
+Hacker, looking hypnotized by the screen:
+        "Well.. kinda"
+
+...
+
+Pan to spies slowly
+
+Spy 2:
+        "You look familiar... have we met before?"
+
+Both spies simultaneously tilt their head in confusion.
+
+*QUICK QUICK FLASHBACK TO SHITMOVIE1 SHOOTING WITH GADDY* (needs to be like
+2 seconds and black and white).
+
+Immediately after:
+Hacker:
+        "Uhhh... I don't think so"
+
+Ding! The computer rings and a digital voice sounds, in an arrogant voice.
+
+Digital Voice:
+        "The quantum computing has been finalized. Expect info in 105 minutes."
+
+Cut to spies in a terrified face.
+
+Digital Voice:
+        "Ha. Just kidding."
+Spy 1:
+        "Heh, heh."
+Digital Voice:
+        "A total of one.. file.. has been extracted."
+Hacker:
+        "Computer, Extract!"
+Digital Voice:
+        "Nah, I don't feel like it"
+        ..
+        "Just kidding"
+
+The computer screen lights up with a "notepad"-esqe editor (vim?).
+
+Cut to computer screen (whole frame).
+
+The computer screen shows two lines on a white background.
+
+Spy 1:
+        "Are those.. coordinates?"
+
+CUT TO:
+## Scene 8:
