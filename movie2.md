@@ -79,15 +79,22 @@ Both spies drop their weapons (bananas) and look at the car. The perp runs off
 (Sderot Yael) without them noticing.
 
 CUT TO:
-## Scene 3: In the car
+## Scene 3: TODO TODO In the car
 
 Easter egg idea: Whilst in the car, when moving, through the window, the viewers
 can see an "English book": "New High Five".
 
 Shooting: Both spies in the backseats of the car
 
-Spy 1 and 2 simul.:
+Spy 1 and 2:
         "This candy's gonna be so goooood"
+...
+Spy 2:
+        "Just like that? The mission's over?"
+        ..
+        "I mean, that guy was pretty good.. It's a shame he got off"
+Spy 1:
+        "hm."
 
 CUT TO:
 ## Scene 4: Unloading from the car
@@ -307,6 +314,9 @@ The room is eerily dark and musty.
 
 Suddenly, the spies kick through the door in an exaggerated motion.
 
+Spy 1 enters the room first, with 2 following right after, with a worried
+face.
+
 Spy 1 draws his banana searching for bad guys, and when none are found, he
 calmly peels it and eats it.
 
@@ -332,6 +342,10 @@ Spy 2:
 Spy 1:
         "Sure"
 
+Spy 1 and 2 search under the tables for people, none are found. The camera
+follows their perspective (i.e., when they lower their head under the table,
+the camera points at their face and follows their movement.)
+
 Spy 1 and 2 begin walking towards the computer of English room, whilst creepy
 music is playing in the background.
 
@@ -347,11 +361,44 @@ Cut to original angle.
 
 The whiteboard cover slowly, even comically so, unveils (in real time, it's
 just slow) whilst the Krabby Patty Secret Formula introduction sounds for
-30 seconds straight.
+30 seconds straight. All this whilst the spies make a dumb "surprised Pikachu"
+face.
 
 Multiple camera angles of the now half-unveiled whiteboard shows.
 
 The whiteboard is now completely shown.
+Slow zoom in with dramatic music to the Governor's Kid's plan drawn on the
+whiteboard in a paranoidic manner (slurred writing, a lot of erasing etc.)
+
+The title of the plan (on the whiteboard): "IVIL PLeN"
+
+In the middle of the whiteboard, a consipicuous colorful map is taped.
+On the map, points _a_ and _b_ are highlighted, with _a_ having a circle
+around it with the words "YOU ARE HERE" next to it.
+The viewers have enough time to guess that point _b_ is where we are going.
+
+(Again, the viewers need enough time to decypher the bad handwriting. This
+could be a point of failure.)
+
+Spy 2:
+        "Oh no! An I..v.il? plen?"
+Spy 1:
+        "I think it says 'Evil plane'"
+Spy 2:
+        "No, it's definitely an Ivil plan"
+
+Uncomfortable pause (silence).
+
+FADE OUT, with a sudden cut in the middle TO:
+## Scene 10: Comic break (kinda)
+
+Scene 8 (exactly) is repeated in reverse, and with a faster pace (both audio
+and video). This time, the map on screen is not a random map (as in Scene 8),
+but is the map from the whiteboard. The idiotic line still does exist and
+still gets us to point _b_. The spies do walk in reverse tho. (possibly
+the music in reverse too?)
+
+This goes on for around half of the original scene's screen time.
 
 CUT TO:
-## Scene 10:
+## Scene 11: The arrival
