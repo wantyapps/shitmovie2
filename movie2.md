@@ -402,3 +402,6 @@ This goes on for around half of the original scene's screen time.
 
 CUT TO:
 ## Scene 11: The arrival
+Shooting: Camera looking at door from inside of "abandoned" building (maybe
+the abandoned building after sderot yael).
+
