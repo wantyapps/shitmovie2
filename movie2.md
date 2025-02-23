@@ -370,15 +370,11 @@ The whiteboard is now completely shown.
 Slow zoom in with dramatic music to the Governor's Kid's plan drawn on the
 whiteboard in a paranoidic manner (slurred writing, a lot of erasing etc.)
 
+In the middle of the whiteboard is a duct-taped picture of a conspicuous building. (the school's synagogue(RABANOOT) )
+Above the picture the words "IviL hq" are written
+
 The title of the plan (on the whiteboard): "IVIL PLeN"
 
-In the middle of the whiteboard, a consipicuous colorful map is taped.
-On the map, points _a_ and _b_ are highlighted, with _a_ having a circle
-around it with the words "YOU ARE HERE" next to it.
-The viewers have enough time to guess that point _b_ is where we are going.
-
-(Again, the viewers need enough time to decypher the bad handwriting. This
-could be a point of failure.)
 
 Spy 2:
         "Oh no! An I..v.il? plen?"
@@ -388,6 +384,10 @@ Spy 2:
         "No, it's definitely an Ivil plan"
 
 Uncomfortable pause (silence).
+
+SPY 2 stares at the picture, before snatching it and turning to head back out the door.
+
+Spy 2 "This might be useful..."
 
 FADE OUT, with a sudden cut in the middle TO:
 ## Scene 10: Comic break (kinda)
@@ -400,8 +400,149 @@ the music in reverse too?)
 
 This goes on for around half of the original scene's screen time.
 
-CUT TO:
-## Scene 11: The arrival
-Shooting: Camera looking at door from inside of "abandoned" building (maybe
-the abandoned building after sderot yael).
+CUT TO
 
+## Scene 11:
+Both spies walk blindly holding up the picture of the builing, each side is in a spy's hand.
+they walk for a few seconds while the camera looks diagonally from behind the spies at the picture.
+
+suddenly, pineapples
+
+suddenly, both spies halt in their tracks.
+
+Spy 1: 'Hey! isn't that the building in the picture?"
+
+Spy 2: "Why yes, I think it is!"
+
+Spy 1: "What a profound coincidence! our life just seems like a movie!" (breaking the fourth wall sort of)
+
+the spies head down the alley to the right of the synagogue, when nearing the side entarence, a cloaked figure wearing a hoodie & mask passes them (michal, but unknown at the time)
+
+Spy 1: "Hey did you see that?"
+
+Spy 2: "Yeah, let's follow that guy, maybe he can tell us more about this "Ivil plan..."
+
+Spy 1: "NO! I told you, it is an evil plane!"
+
+Spy 2, looking at spy 1 disgustedly: "Whatever." sort of throwing his hand at him in a dissmissive motion.
+
+both spies sneak in behind the figure, heading up the stairwell and into rabanoot
+the spies confront the figure who is standing facing the backwall of rabanoot.
+
+Spy 2: "Hey you!"
+
+the figure turns around suprised and speaks in a fabricated lower voice: "Who are you?! What are you doing here?"
+
+Spy 2: "We came to... uh... sorry i forgot."
+
+Figure: "Take your time..."
+
+spy 1 whispers into spy 2's ear 
+
+Spy 2: "Oh right! we came to discover the truth of the ivil plan"
+
+Spy 1 shouts slowly: "E V I L  P L A N E!!!!"
+
+spy 2: "No its obviously ivil plan!"
+
+the figure looks at the spies in confusion as they shout at eachother senselessly
+
+Spy 1: "Okay, okay. you. masked guy, is it 'Evil plane' or 'ivil plan'?"
+
+Figure, in confusion: "Well, uh, it is 'evil plan'"
+
+both spies: "OHHHHHHHH"
+
+spy 2: "that makes more sense..."
+
+Spy 1: "Yeah, anyway you need to come with us to tell us this 'evil plan' of yours."
+
+the figure looks around frantically before starting to run right (from the perspective of the entrance to the room) around the table
+the spies begin chasing the figure clockwise around the tables making a sort of cat and mouse chase scene. 
+after a few laps the figure runs out the door.
+The spies continue the chase, exit out the door and out of the frame.
+
+CUT TO:
+## Scene 12:
+The figure, and the spies after him, run down the stairs (camera following).
+The figure exists the building, spies still following.
+
+She suddenly cuts right, towards the gate of the Democrati school.
+She cuts right again, entering the school and leaving the frame.
+Cut to front school yard, where the spies continue following her into the building.
+
+Michal goes quickly up the flight of stairs, skipping a few every couple of steps.
+
+The camera follows her, hearing the steps of the spies as well (out of frame).
+
+When they reach the upmost level, invisible cut to next scene
+
+INVIS. CUT TO:
+## Scene 13:
+Shooting: camera looking towards the wall with the doors. Somehow, the camera
+catches all doors at once.
+
+Michal enters the door on the extreme left (26).
+Whack-a-mole type chase ensues.
+
+After a few times, michal opens the math room's door, and cuts towards
+the stairs.
+The spies follow.
+
+Cut to Michal exiting the bulding, spies afer her (again, I know).
+
+Michal runs towards music room, and the chase continues.
+
+She opens the door quickly and closes it shut with a thud.
+
+Camera looking at Michal, after she closed the door. She pants in tiredness.
+
+Suddenly, the beginning of toccata and fugue begins playing.
+
+Swish pan to Gaddy Tzikman, wearing a blone wig and ginger 'stache, playing
+on the piano whilst looking at the camera.
+After the ending of the first phrase, Michal and Gaddy switch mabatim, doing
+absolutely nothing.
+
+7 seconds pass.
+
+Suddenly, the door thuds and the spies enter, panting in tiredness as well.
+
+Gaddy plays the second phrase of toccata and fugue, with the same looks and all.
+
+7 seconds pass.
+
+Spy 2:
+        Dude, haven't we seen you before? Like, exactly [exact time, to the second, from when
+        the spies saw Gaddy in this movie] ago?
+Gaddy, in a squeaking voice:
+        Uh.. no.
+Spy 1 to Spy 2 and Michal:
+        Well, he's got a point.
+
+The four charactes stand uncomfortably in the cramped music room.
+
+Gaddy continues playing the piece, as in practicing it without noticing anyone.
+The piece moves to the background.
+
+Michal:
+        Ah, finally. We meet at last! You took everything from me! You caused
+        me so much pain...
+
+        (flashback monotonic scale plays)
+
+Haze fade to flashback, whilst michal continues babbling in the background.
+
+Flashback:
+Michal cries over the body of the governor (previous movie).
+
+Michal (o.o.f):
+        My name is Governor Jr. You killed my father. Prepare to d--
+
+BLAM BLAM BLAM!
+
+Cut to music room.
+
+Spy 2 holds his banana still in the recoil position, barrel smoking profusely.
+
+Michal bleeds out on the floor, whilst depressing French music plays.
